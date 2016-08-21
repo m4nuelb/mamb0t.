@@ -33,7 +33,7 @@ function processRequest($text)
 	$response = "";
 	if($text=="bau")
 	{
-		$response = "BAU BAU BAU BAU";
+		$response = "BAU BAU BAU BAUuu";
 	}
 	elseif ($text=="cibo")
 	{
@@ -41,7 +41,7 @@ function processRequest($text)
 	}
 	else
 	{
-		$response = "analfabeta non sai leggere, i comandi attivi sono due!!";
+		$response = "analfabeta non sai leggere, i comandi attivi sono due!";
 	}
 	return $response;
 }
