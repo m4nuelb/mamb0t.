@@ -33,7 +33,7 @@ function processRequest($text)
 	$response = "";
 	if($text=="bau")
 	{
-		$response = "BAU BAU BAU BAU";
+		$response = "BAU BAU BAU BAUuu";
 	}
 	elseif ($text=="cibo")
 	{
