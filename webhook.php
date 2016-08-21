@@ -41,7 +41,7 @@ function processRequest($text)
 	}
 	else
 	{
-		$response = "analfabeta non sai leggere, i comandi attivi sono due!!";
+		$response = "analfabeta non sai leggere, i comandi attivi sono due!";
 	}
 	return $response;
 }
